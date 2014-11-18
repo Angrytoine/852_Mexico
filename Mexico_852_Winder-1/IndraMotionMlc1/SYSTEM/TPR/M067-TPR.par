@@ -1,0 +1,101 @@
+﻿SERCOS-ASCII
+06.08.2014 13:27:42
+TouchProbe067
+MT | All | CML45s-MLC-13V12.0573.001 |
+67
+|
+M-0-0002.0.0
+Touch probe name
+00000000010001000000000000000001
+--
+--
+--
+13 80 TouchProbe067
+|
+M-0-0005.0.0
+Input selection
+00000000000100010000000000000001
+--
+1
+427
+1
+|
+M-0-0006.0.0
+Signal selection
+00000000011100110000000000000001
+--
+--
+--
+A000:S-0-0000.0.0
+|
+M-0-0007.0.0
+Control word
+00000000000000100000000000000001
+--
+--
+--
+0000.0000.0000.0000.0000.0000.0000.0000
+|
+M-0-0016.0.0
+Project identification number
+00000000010001000000000000000001
+--
+--
+--
+17 61 Project ID number
+|
+M-0-0200.0.0
+Dead-time compensation, positive edge
+00000000001000100000000000000001
+µs
+0
+100000
+0
+|
+M-0-0201.0.0
+Dead-time compensation, negative edge
+00000000001000100000000000000001
+µs
+0
+100000
+0
+|
+M-0-0202.0.0
+Starting position of the expectation window, positive edge
+00000000011000100000000000000001
+--
+--
+--
+0
+|
+M-0-0203.0.0
+End position of the expectation window, positive edge
+00000000011000100000000000000001
+--
+--
+--
+0
+|
+M-0-0204.0.0
+Starting position of the expectation window, negative edge
+00000000011000100000000000000001
+--
+--
+--
+0
+|
+M-0-0205.0.0
+End position of the expectation window, negative edge
+00000000011000100000000000000001
+--
+--
+--
+0
+|
+M-0-0206.0.0
+Maximum number of marker failures
+00000000000100010000000000000001
+--
+0
+65535
+0

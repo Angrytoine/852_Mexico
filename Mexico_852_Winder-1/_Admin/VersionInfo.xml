@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<VersionInfo>
+  <Project version="13.12.2" versionText="13V12 Patch 2" />
+  <IndraWorks version="13.12.523.0" versionText="13V12 Patch 2" />
+  <Packages>
+    <Package name="HMI" versionText="13.12" />
+    <Package name="ILNG" versionText="13.12.2" />
+    <Package name="XlcMlc" versionText="13.12.2" />
+  </Packages>
+</VersionInfo>

@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<device vendor="Rexroth" name="IndraMotion MLC L45" desc="FWA-CML45*-ML*-13V**" hw="CML45.1-3P-***-NA-NNNN-NN" bsp="IC_CML65_BSP_V13.11.34.0">
+	<ident>MLC_L45</ident>
+	<additional>
+		<env_var forceFwDerivat="1" forceFwVersion="0"/>
+		<env_var forceFwProductlabel="1"/>
+	</additional>
+	<packagelist>
+		<package name="">
+			<idx>0</idx>
+			<key>MAX</key>
+			<additional>
+				<max_control name="Number of controls">64</max_control>
+				<max_axis name="Number of axis">32</max_axis>
+				<min_logical_axis_adr name="Minimum logical axis number">1</min_logical_axis_adr>
+				<max_logical_axis_adr name="Maximum logical axis number">32</max_logical_axis_adr>
+				<max_pls name="Number of PLS">4</max_pls>
+				<max_kin name="Number of kinematics">16</max_kin>
+				<max_tpr name="Number of touch probes">100</max_tpr>
+				<max_osi name="Number of oscilloscope channels">16</max_osi>
+				<max_consumer_axis name="Number of axis of one producer">64</max_consumer_axis>
+			</additional>
+		</package>
+		<package name="">
+			<idx>1</idx>
+			<key>AOS</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>2</idx>
+			<key>PPH</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>3</idx>
+			<key>MM</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>4</idx>
+			<key>DSH</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>5</idx>
+			<key>LNI</key>
+			<additional>
+				<sercos_c2c>
+					<module idx="0" sercostype="Sercos III Master" hwversion="4" hwrelease="9" hwtestversion="0" hwdmaversion="0" hwdmarelease="0">active</module>
+					<module idx="1" sercostype="Sercos III Slave" hwversion="2" hwrelease="8" hwtestversion="0" hwdmaversion="0" hwdmarelease="0">active</module>
+				</sercos_c2c>
+			</additional>
+		</package>
+		<package name="">
+			<idx>6</idx>
+			<key>DRI</key>
+			<additional>
+				<sercos_fkm>
+					<module idx="0" sercostype="Sercos II">active</module>
+					<module idx="1" sercostype="Sercos III" hwversion="4" hwrelease="9" hwtestversion="0" hwdmaversion="4" hwdmarelease="1">active</module>
+					<module idx="2" sercostype="Sercos Simulation">active</module>
+				</sercos_fkm>
+			</additional>
+		</package>
+		<package name="">
+			<idx>7</idx>
+			<key>GDC</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>8</idx>
+			<key>ACI</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>9</idx>
+			<key>ACS</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>10</idx>
+			<key>AEH</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>11</idx>
+			<key>AXC</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>12</idx>
+			<key>APS</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>13</idx>
+			<key>CME</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>14</idx>
+			<key>CMI</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>15</idx>
+			<key>CSV</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>16</idx>
+			<key>CPM</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>17</idx>
+			<key>DIS</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>18</idx>
+			<key>ERH</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>19</idx>
+			<key>GPP</key>
+			<additional>
+				<VersionInfo>
+					<Productlabel>CML45s</Productlabel>
+					<Derivat>MLC</Derivat>
+					<Version>13</Version>
+					<VersionType>T</VersionType>
+					<Release>01</Release>
+					<Build>0000</Build>
+					<AddInfo/>
+				</VersionInfo>
+			</additional>
+		</package>
+		<package name="">
+			<idx>20</idx>
+			<key>KIC</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>21</idx>
+			<key>MMH</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>22</idx>
+			<key>MOK</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>23</idx>
+			<key>OBS</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>24</idx>
+			<key>SBC</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>25</idx>
+			<key>WDG</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>26</idx>
+			<key>PLS</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>27</idx>
+			<key>OSI</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>28</idx>
+			<key>TPR</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>29</idx>
+			<key>DPA</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>30</idx>
+			<key>API</key>
+			<additional>
+				<accounts path="PART_OEM" ldIdx="1">accounts.xml</accounts>
+				<accounts path="PART_SYSTEM" ldIdx="2">accounts.xml</accounts>
+			</additional>
+		</package>
+		<package name="">
+			<idx>31</idx>
+			<key>SSC</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>32</idx>
+			<key>GPA</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>33</idx>
+			<key>TNS</key>
+			<additional/>
+		</package>
+		<package name="">
+			<idx>34</idx>
+			<key>TRC</key>
+			<additional/>
+		</package>
+		<package name="PLC">
+			<idx>35</idx>
+			<key>PLC</key>
+			<additional>
+				<IL_StartOptions>
+					<Version>13</Version>
+					<Release>0</Release>
+					<Build>0</Build>
+					<Patch>0</Patch>
+					<DevType>0x1000</DevType>
+					<TargetID type="SercosFkmEnabled">0x10010104</TargetID>
+					<TargetID type="SercosFkmDisabled">0x10010104</TargetID>
+					<DeviceName>IndraMotion MLC L45</DeviceName>
+					<NodeName>IndraMotion MLC L45</NodeName>
+					<CfgFile signature="{0B009EB1-6463-4915-A5C4-7B66D8FD0ECC}">DevicePlc.cfg</CfgFile>
+					<CfgFileWriteable signature="{8BA2C9C5-A7C1-4496-B408-A2941795E4C4}">DevicePlcAdd.cfg</CfgFileWriteable>
+				</IL_StartOptions>
+				<IL_ComponentList>
+					<component name="ComponentManager">
+						<Settings>
+							<Setting name="Component.1">
+								<value>CmpApp</value>
+							</Setting>
+							<Setting name="Component.2">
+								<value>CmpAppBP</value>
+							</Setting>
+							<Setting name="Component.3">
+								<value>CmpAppForce</value>
+							</Setting>
+							<Setting name="Component.4">
+								<value>CmpAsyncMgr</value>
+							</Setting>
+							<Setting name="Component.5">
+								<value>CmpBinTagUtil</value>
+							</Setting>
+							<Setting name="Component.6">
+								<value>CmpBinTagUtilIec</value>
+							</Setting>
+							<Setting name="Component.7">
+								<value>CmpBitmapPool</value>
+							</Setting>
+							<Setting name="Component.8">
+								<value>CmpBlkDrvTcp</value>
+							</Setting>
+							<Setting name="Component.9">
+								<value>CmpBlkDrvUdp</value>
+							</Setting>
+							<Setting name="Component.10">
+								<value>CmpCAACallback</value>
+							</Setting>
+							<Setting name="Component.11">
+								<value>CmpCAAMemBlockMan</value>
+							</Setting>
+							<Setting name="Component.12">
+								<value>CmpCAAResMan</value>
+							</Setting>
+							<Setting name="Component.13">
+								<value>CmpCAATypes</value>
+							</Setting>
+							<Setting name="Component.14">
+								<value>CmpChannelClient</value>
+							</Setting>
+							<Setting name="Component.15">
+								<value>CmpChannelClientIec</value>
+							</Setting>
+							<Setting name="Component.16">
+								<value>CmpChannelMgr</value>
+							</Setting>
+							<Setting name="Component.17">
+								<value>CmpChannelServer</value>
+							</Setting>
+							<Setting name="Component.18">
+								<value>CmpChecksum</value>
+							</Setting>
+							<Setting name="Component.19">
+								<value>CmpCommunicationLib</value>
+							</Setting>
+							<Setting name="Component.20">
+								<value>CmpDevice</value>
+							</Setting>
+							<Setting name="Component.21">
+								<value>CmpDynamicText</value>
+							</Setting>
+							<Setting name="Component.22">
+								<value>CmpEventMgr</value>
+							</Setting>
+							<Setting name="Component.23">
+								<value>CmpFileTransfer</value>
+							</Setting>
+							<Setting name="Component.24">
+								<value>CmpHilscherCIFX_v1110</value>
+							</Setting>
+							<Setting name="Component.25">
+								<value>CmpIecTask</value>
+							</Setting>
+							<Setting name="Component.26">
+								<value>CmpIecVarAccess</value>
+							</Setting>
+							<Setting name="Component.27">
+								<value>CmpIoDrvC</value>
+							</Setting>
+							<Setting name="Component.28">
+								<value>CmpIoDrvIec</value>
+							</Setting>
+							<Setting name="Component.29">
+								<value>CmpIoMgr</value>
+							</Setting>
+							<Setting name="Component.30">
+								<value>CmpMemPool</value>
+							</Setting>
+							<Setting name="Component.31">
+								<value>CmpMonitor</value>
+							</Setting>
+							<Setting name="Component.32">
+								<value>CmpNameServiceClient</value>
+							</Setting>
+							<Setting name="Component.33">
+								<value>CmpNameServiceClientIec</value>
+							</Setting>
+							<Setting name="Component.34">
+								<value>CmpNameServiceServer</value>
+							</Setting>
+							<Setting name="Component.35">
+								<value>CmpPlcShell</value>
+							</Setting>
+							<Setting name="Component.36">
+								<value>CmpRetain</value>
+							</Setting>
+							<Setting name="Component.37">
+								<value>CmpRouter</value>
+							</Setting>
+							<Setting name="Component.38">
+								<value>CmpSchedule</value>
+							</Setting>
+							<Setting name="Component.39">
+								<value>CmpSrv</value>
+							</Setting>
+							<Setting name="Component.40">
+								<value>CmpTraceMgr</value>
+							</Setting>
+							<Setting name="Component.41">
+								<value>CmpVisuHandler</value>
+							</Setting>
+							<Setting name="Component.42">
+								<value>CmpVisuServer</value>
+							</Setting>
+							<Setting name="Component.43">
+								<value>SysCom</value>
+							</Setting>
+							<Setting name="Component.44">
+								<value>SysCpuHandling</value>
+							</Setting>
+							<Setting name="Component.45">
+								<value>SysDir</value>
+							</Setting>
+							<Setting name="Component.46">
+								<value>SysEvent</value>
+							</Setting>
+							<Setting name="Component.47">
+								<value>SysExcept</value>
+							</Setting>
+							<Setting name="Component.48">
+								<value>SysFileStream</value>
+							</Setting>
+							<Setting name="Component.49">
+								<value>SysInt</value>
+							</Setting>
+							<Setting name="Component.50">
+								<value>SysInternalLib</value>
+							</Setting>
+							<Setting name="Component.51">
+								<value>SysModule</value>
+							</Setting>
+							<Setting name="Component.52">
+								<value>SysMsgQ</value>
+							</Setting>
+							<Setting name="Component.53">
+								<value>SysOut</value>
+							</Setting>
+							<Setting name="Component.54">
+								<value>SysPci</value>
+							</Setting>
+							<Setting name="Component.55">
+								<value>SysPort</value>
+							</Setting>
+							<Setting name="Component.56">
+								<value>SysProcess</value>
+							</Setting>
+							<Setting name="Component.57">
+								<value>SysSem</value>
+							</Setting>
+							<Setting name="Component.58">
+								<value>SysShm</value>
+							</Setting>
+							<Setting name="Component.59">
+								<value>SysSocket</value>
+							</Setting>
+							<Setting name="Component.60">
+								<value>SysTarget</value>
+							</Setting>
+							<Setting name="Component.61">
+								<value>SysTask</value>
+							</Setting>
+							<Setting name="Component.62">
+								<value>SysTimeRtc</value>
+							</Setting>
+							<Setting name="Component.63">
+								<value>CmpCML65Base</value>
+							</Setting>
+							<Setting name="Component.64">
+								<value>CmpCommBrc</value>
+							</Setting>
+							<Setting name="Component.65">
+								<value>CmpFpExcMan</value>
+							</Setting>
+							<Setting name="Component.66">
+								<value>CmpILR_RT2x</value>
+							</Setting>
+							<Setting name="Component.67">
+								<value>CmpILR_Util</value>
+							</Setting>
+							<Setting name="Component.68">
+								<value>CmpNetxDiag</value>
+							</Setting>
+							<Setting name="Component.69">
+								<value>CmpNetXLoader</value>
+							</Setting>
+							<Setting name="Component.70">
+								<value>CmpUdpBrc</value>
+							</Setting>
+							<Setting name="Component.71">
+								<value>ILR_FbG</value>
+							</Setting>
+							<Setting name="Component.72">
+								<value>IoDrvEnip</value>
+							</Setting>
+							<Setting name="Component.73">
+								<value>IoDrvFastIo</value>
+							</Setting>
+							<Setting name="Component.74">
+								<value>IoDrvInline</value>
+							</Setting>
+							<Setting name="Component.75">
+								<value>IoDrvObIc</value>
+							</Setting>
+							<Setting name="Component.76">
+								<value>IoDrvS3Io</value>
+							</Setting>
+							<Setting name="Component.77">
+								<value>IoDrvShow</value>
+							</Setting>
+							<Setting name="Component.78">
+								<value>RIL_Inline</value>
+							</Setting>
+							<Setting name="Component.79">
+								<value>SysBrcIoLock</value>
+							</Setting>
+							<Setting name="Component.80">
+								<value>CmpRIL_SercosIII</value>
+							</Setting>
+							<Setting name="Component.81">
+								<value>CmpSmp</value>
+							</Setting>
+							<Setting name="Component.82">
+								<value>CmpCsal</value>
+							</Setting>
+							<Setting name="Component.83">
+								<value>CmpHalcIo</value>
+							</Setting>
+							<Setting name="Component.84">
+								<value>SysSafetyIoBaseBRC</value>
+							</Setting>
+							<Setting name="Component.85">
+								<value>CmpBlkDrvDirectCall</value>
+							</Setting>
+							<Setting name="Component.86">
+								<value>SysSemProcess</value>
+							</Setting>
+							<Setting name="Component.87">
+								<value>CmpSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.88">
+								<value>SysSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.89">
+								<value>CmpChannelMgrSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.90">
+								<value>CmpChannelServerSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.91">
+								<value>CmpDeviceSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.92">
+								<value>CmpNameServiceServerSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.93">
+								<value>CmpRouterSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.94">
+								<value>CmpSrvSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.95">
+								<value>SysTargetSafetyProxy</value>
+							</Setting>
+							<Setting name="Component.96">
+								<value>CmpLog</value>
+							</Setting>
+							<Setting name="Component.97">
+								<value>CmpOpenCtrl</value>
+							</Setting>
+							<Setting name="Component.98">
+								<value>CmpJobCom</value>
+							</Setting>
+							<Setting name="Component.99">
+								<value>CmpEIS</value>
+							</Setting>
+							<Setting name="Component.100">
+								<value>CmpEISWS</value>
+							</Setting>
+							<Setting name="Component.101">
+								<value>CmpMl_Base</value>
+							</Setting>
+							<Setting name="Component.102">
+								<value>CmpMLCCamMotionProfile</value>
+							</Setting>
+							<Setting name="Component.103">
+								<value>CmpMLCCyclicChannel</value>
+							</Setting>
+							<Setting name="Component.104">
+								<value>CmpMLCDirectAccess</value>
+							</Setting>
+							<Setting name="Component.105">
+								<value>CmpMLCDirectAccessExt</value>
+							</Setting>
+							<Setting name="Component.106">
+								<value>CmpMlcMci</value>
+							</Setting>
+							<Setting name="Component.107">
+								<value>CmpMLCPara</value>
+							</Setting>
+							<Setting name="Component.108">
+								<value>CmpMLCPlcItf</value>
+							</Setting>
+							<Setting name="Component.109">
+								<value>CmpRIH_CMLx</value>
+							</Setting>
+							<Setting name="Component.110">
+								<value>CmpOPCUAStack</value>
+							</Setting>
+							<Setting name="Component.111">
+								<value>CmpMlpi</value>
+							</Setting>
+							<Setting name="Component.112">
+								<value>CmpMLCDirectAccessRobot</value>
+							</Setting>
+							<Setting name="Component.113">
+								<value>CmpMlcRoCo</value>
+							</Setting>
+							<Setting name="Component.114">
+								<value>SysSafetyFmBrc</value>
+							</Setting>
+							<Setting name="Component.115">
+								<value>CmpXMLHandler</value>
+							</Setting>
+							<Setting name="Component.116">
+								<value>CmpSafetyFmDiag</value>
+							</Setting>
+							<Setting name="Component.117">
+								<value>CmpSafetyIoConfig</value>
+							</Setting>
+							<Setting name="Component.118">
+								<value>CmpSafetyIoRouter</value>
+							</Setting>
+							<Setting name="Component.119">
+								<value>IoDrvSafetyExcVar</value>
+							</Setting>
+							<Setting name="Component.120">
+								<value>CmpNetXCanDlDrv</value>
+							</Setting>
+							<Setting name="Component.121">
+								<value>CmpCAACanL2</value>
+							</Setting>
+							<Setting name="Component.122">
+								<value>CmpCAASdoClient</value>
+							</Setting>
+							<Setting name="Component.123">
+								<value>CmpCAASdoServer</value>
+							</Setting>
+							<Setting name="Component.124">
+								<value>CmpCAATick</value>
+							</Setting>
+							<Setting name="Component.125">
+								<value>CmpCAATickUtil</value>
+							</Setting>
+							<Setting name="3SLicenseRequired">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpSettings">
+						<Settings>
+							<Setting name="FileReference.0" path="PART_OEM">
+								<value>DevicePlcAdd.cfg</value>
+							</Setting>
+							<Setting name="FileReference.1" path="PART_USER">
+								<value>uaconfig.cfg</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpApp">
+						<Option>RW</Option>
+						<Settings>
+							<Setting name="Bootproject.InvalidateNever">
+								<value>1</value>
+							</Setting>
+							<Setting name="RetainType.Applications">
+								<value>InSRAM</value>
+							</Setting>
+							<Setting name="Bootproject.CreateOnDownload">
+								<value>1</value>
+							</Setting>
+							<Setting name="Bootproject.RetainMismatch.Exception">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpBlkDrvUdp">
+						<Settings>
+							<Setting name="itf.0.ipaddress">
+								<value>0.0.0.0</value>
+							</Setting>
+							<Setting name="itf.0.networkmask">
+								<value>0.0.0.0</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpChannelServer">
+						<Settings>
+							<Setting name="MaxChannels">
+								<value>8</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpDevice">
+						<Settings>
+							<Setting name="TargetVersionMask">
+								<value>0xFF000000</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="IoDrvCIFX">
+						<Option>RW</Option>
+						<Settings>
+							<Setting name="Instance.0.FirmwareName">
+								<value>BR netX ProfiBusDP / ProfiNetIO</value>
+							</Setting>
+							<Setting name="Instance.0.ModuleType">
+								<value>32</value>
+							</Setting>
+							<Setting name="Instance.0.DeviceName">
+								<value>CIFX DP-Master</value>
+							</Setting>
+							<Setting name="Instance.0.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.0.BoardNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.0.ChannelNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.1.FirmwareName">
+								<value>BR netX ProfiBusDP / ProfiNetIO</value>
+							</Setting>
+							<Setting name="Instance.1.ModuleType">
+								<value>80</value>
+							</Setting>
+							<Setting name="Instance.1.DeviceName">
+								<value>controller</value>
+							</Setting>
+							<Setting name="Instance.1.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.1.BoardNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.1.ChannelNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.2.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.2.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.2.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.2.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.2.BoardNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.2.ChannelNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.3.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.3.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.3.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.3.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.3.BoardNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.3.ChannelNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.4.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.4.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.4.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.4.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.4.BoardNumber">
+								<value>2</value>
+							</Setting>
+							<Setting name="Instance.4.ChannelNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.5.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.5.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.5.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.5.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.5.BoardNumber">
+								<value>2</value>
+							</Setting>
+							<Setting name="Instance.5.ChannelNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.6.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.6.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.6.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.6.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.6.BoardNumber">
+								<value>3</value>
+							</Setting>
+							<Setting name="Instance.6.ChannelNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.7.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.7.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.7.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.7.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.7.BoardNumber">
+								<value>3</value>
+							</Setting>
+							<Setting name="Instance.7.ChannelNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.8.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.8.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.8.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.8.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.8.BoardNumber">
+								<value>4</value>
+							</Setting>
+							<Setting name="Instance.8.ChannelNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.9.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.9.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.9.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.9.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.9.BoardNumber">
+								<value>4</value>
+							</Setting>
+							<Setting name="Instance.9.ChannelNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.10.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.10.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.10.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.10.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.10.BoardNumber">
+								<value>5</value>
+							</Setting>
+							<Setting name="Instance.10.ChannelNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.11.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.11.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.11.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.11.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.11.BoardNumber">
+								<value>5</value>
+							</Setting>
+							<Setting name="Instance.11.ChannelNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="Instance.12.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.12.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.12.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.12.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.12.BoardNumber">
+								<value>6</value>
+							</Setting>
+							<Setting name="Instance.12.ChannelNumber">
+								<value>0</value>
+							</Setting>
+							<Setting name="Instance.13.FirmwareName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.13.ModuleType">
+								<value>mode: 0</value>
+							</Setting>
+							<Setting name="Instance.13.DeviceName">
+								<value>not set</value>
+							</Setting>
+							<Setting name="Instance.13.VendorName">
+								<value>Rexroth</value>
+							</Setting>
+							<Setting name="Instance.13.BoardNumber">
+								<value>6</value>
+							</Setting>
+							<Setting name="Instance.13.ChannelNumber">
+								<value>1</value>
+							</Setting>
+							<Setting name="BackgroundDiag">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpOPCUAStack">
+						<Settings>
+							<Setting name="CertificateStore" path="PART_SYSTEM">
+								<value>CertificateStore</value>
+							</Setting>
+							<Setting name="ServerCertificate">
+								<value>Indralogic.der</value>
+							</Setting>
+							<Setting name="DefaultTaskRun">
+								<value>1</value>
+							</Setting>
+							<Setting name="DefaultSamplingInterval">
+								<value>50</value>
+							</Setting>
+							<Setting name="ShortestSamplingInterval">
+								<value>1</value>
+							</Setting>
+							<Setting name="DefaultTcpPort">
+								<value>4840</value>
+							</Setting>
+							<Setting name="DefaultLogging">
+								<value>0</value>
+							</Setting>
+							<Setting name="DefaultLoggingLevel">
+								<value>0</value>
+							</Setting>
+							<Setting name="ConfigPath" path="PART_USER_NO_SLASH">
+								<value/>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpRetain">
+						<Option>RW</Option>
+					</component>
+					<component name="CmpRouter">
+						<Settings>
+							<Setting name="EnableLoopDetection">
+								<value>1</value>
+							</Setting>
+							<Setting name="NumRouters">
+								<value>3</value>
+							</Setting>
+							<Setting name="0.MainNet">
+								<value>ether 0</value>
+							</Setting>
+							<Setting name="1.MainNet">
+								<value>BlkDrvDirectCall</value>
+							</Setting>
+							<Setting name="2.MainNet">
+								<value>BlkDrvTcp</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpSchedule">
+						<Settings>
+							<Setting name="ProcessorLoad.Maximum">
+								<value>0</value>
+							</Setting>
+							<Setting name="Task.Freewheeling.Cycletime">
+								<value>1000</value>
+							</Setting>
+							<Setting name="Timeslicing.Mode">
+								<value>External</value>
+							</Setting>
+							<Setting name="OmittedCycleWatchdog.OnlineChangeUs">
+								<value>450000</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="SysExcept">
+						<Settings>
+							<Setting name="EnableFirstLevelHandling">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="SysFile">
+						<Settings>
+							<Setting name="FilePath" path="PART_OEM">
+								<value/>
+							</Setting>
+							<Setting name="FilePath.1" path="PART_USER_NO_SLASH">
+								<value>, 3S.dat</value>
+							</Setting>
+							<Setting name="IecFilePath" path="PART_USER">
+								<value/>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="SysTarget">
+						<Settings>
+							<Setting name="NodeName">
+								<value>IndraLogic MLC L45</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="SysTargetSafetyProxy">
+						<Settings>
+							<Setting name="NodeName">
+								<value>IndraLogic L45 (Safety)</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpILR_RT2x">
+						<Settings>
+							<Setting name="StartPlcControlledByExternal">
+								<value>1</value>
+							</Setting>
+							<Setting name="PrintfOn">
+								<value>0</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="NetX_Device">
+						<Option>RW</Option>
+						<Settings>
+							<Setting name="Module.1">
+								<value>empty</value>
+							</Setting>
+							<Setting name="Module.2">
+								<value>empty</value>
+							</Setting>
+							<Setting name="Module.3">
+								<value>empty</value>
+							</Setting>
+							<Setting name="Module.4">
+								<value>empty</value>
+							</Setting>
+							<Setting name="Module.5">
+								<value>DP_Master_PN_Con</value>
+							</Setting>
+							<Setting name="Module.6">
+								<value>empty</value>
+							</Setting>
+							<Setting name="Module.7">
+								<value>empty</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="ILD_Inline_02VRS_CONFIG">
+						<Settings>
+							<Setting name="Inline_Taskprio_IBM_CYCLIC">
+								<value>79</value>
+							</Setting>
+							<Setting name="Inline_Taskprio_IBM_APP_TSK">
+								<value>80</value>
+							</Setting>
+							<Setting name="Inline_Taskprio_IBM_BLL_TSK">
+								<value>81</value>
+							</Setting>
+							<Setting name="Inline_Taskprio_IBM_BLL_DSP">
+								<value>82</value>
+							</Setting>
+							<Setting name="Inline_Taskprio_IBM_APP_DSP">
+								<value>82</value>
+							</Setting>
+							<Setting name="Inline_EventsPutToLogger">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpLog">
+						<Settings>
+							<Setting name="Logger.0.Name">
+								<value>PlcLog</value>
+							</Setting>
+							<Setting name="Logger.0.Filter">
+								<value>0xFFFFFFFF</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpEIS">
+						<Settings>
+							<Setting name="Nbr_of_Handles">
+								<value>10000</value>
+							</Setting>
+							<Setting name="TCP_Run">
+								<value>1</value>
+							</Setting>
+							<Setting name="TCP_BufferSize">
+								<value>20000</value>
+							</Setting>
+							<Setting name=";Diese Prio wird in SYS_DEFS.h definiert ">
+								<value>=&gt; K_PLC_TSK_EIS_TCP</value>
+							</Setting>
+							<Setting name="TCP_Taskprio">
+								<value>254</value>
+							</Setting>
+							<Setting name="TCP_Taskinterval">
+								<value>101</value>
+							</Setting>
+							<Setting name="PBDP_Run">
+								<value>1</value>
+							</Setting>
+							<Setting name="PBDP_BufferSize">
+								<value>20000</value>
+							</Setting>
+							<Setting name=";Diese Prio wird in SYS_DEFS.h definiert ">
+								<value>=&gt; K_PLC_TSK_EIS_DP</value>
+							</Setting>
+							<Setting name="PBDP_Taskprio">
+								<value>254</value>
+							</Setting>
+							<Setting name="PBDP_Taskinterval">
+								<value>101</value>
+							</Setting>
+							<Setting name="UDPS_Run">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpEISWS">
+						<Settings>
+							<Setting name="EISWS_PortNumber">
+								<value>80</value>
+							</Setting>
+							<Setting name="EISWS_Run">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_BufferSize">
+								<value>32000</value>
+							</Setting>
+							<Setting name=";Diese Prio wird in SYS_DEFS.h definiert ">
+								<value>=&gt; K_PLC_EISWS</value>
+							</Setting>
+							<Setting name="EISWS_Taskprio">
+								<value>254</value>
+							</Setting>
+							<Setting name="EISWS_Taskinterval">
+								<value>101</value>
+							</Setting>
+							<Setting name="EISWS_WebrootDir" path="PART_SYSTEM">
+								<value>WEBROOT</value>
+							</Setting>
+							<Setting name="EISWS_DefaultFile">
+								<value>index.htm</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.1">
+								<value>WEBUserFiles</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.1" path="PART_USER">
+								<value>WebUserFiles</value>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.1">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.1">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.2">
+								<value>OEMRoot</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.2" path="PART_USER_NO_SLASH">
+								<value/>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.2">
+								<value>0</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.2">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.3">
+								<value>Backup</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.3" path="PART_USER">
+								<value>Backup</value>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.3">
+								<value>0</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.3">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.4">
+								<value>System</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.4" path="PART_SYSTEM_NO_SLASH">
+								<value/>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.4">
+								<value>0</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.4">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.5">
+								<value>Boot</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.5" path="PART_OEM_NO_SLASH">
+								<value/>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.5">
+								<value>0</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.5">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.6">
+								<value>Documentation</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.6" path="PART_USER">
+								<value>Documentation</value>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.6">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.6">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.7">
+								<value>Help</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.7" path="PART_USER">
+								<value>Documentation/Help</value>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.7">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.7">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirName.8">
+								<value>UserWEBROOT</value>
+							</Setting>
+							<Setting name="EISWS_VDirLocation.8" path="PART_USER">
+								<value>WEBROOT</value>
+							</Setting>
+							<Setting name="EISWS_VDirCreate.8">
+								<value>1</value>
+							</Setting>
+							<Setting name="EISWS_VDirWrite.8">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpMLCPlcItf">
+						<Settings>
+							<Setting name="IecExcHndlByMlc">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogNoneToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogWarningsToDsh">
+								<value>1</value>
+							</Setting>
+							<Setting name="LogInfosToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogErrorsToDsh">
+								<value>1</value>
+							</Setting>
+							<Setting name="LogExceptionsToDsh">
+								<value>1</value>
+							</Setting>
+							<Setting name="LogDebugToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogPrintfToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogComToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogTimestampToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogAllToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogStdToDsh">
+								<value>0</value>
+							</Setting>
+							<Setting name="LogOnlineChangesToDsh">
+								<value>1</value>
+							</Setting>
+							<Setting name="LogDownloadsToDsh">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="IoDrvSafetySp">
+						<Settings>
+							<Setting name="MapIoShmByAddress">
+								<value>1</value>
+							</Setting>
+							<Setting name="MapIoShmByPCI">
+								<value>1</value>
+							</Setting>
+							<Setting name="IoShmSize">
+								<value>2048</value>
+							</Setting>
+							<Setting name="IoShmName">
+								<value>SSPU_IOShm</value>
+							</Setting>
+							<Setting name="IoShmOffset">
+								<value>0x5000</value>
+							</Setting>
+							<Setting name="PciVendorId">
+								<value>0x10b5</value>
+							</Setting>
+							<Setting name="PciDeviceId">
+								<value>0x9030</value>
+							</Setting>
+							<Setting name="PciSubSystemId">
+								<value>0x2c</value>
+							</Setting>
+							<Setting name="PciSubVendorId">
+								<value>0x16f2</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpHilscherCIFX_v1110">
+						<Settings>
+							<Setting name="InterruptMode">
+								<value>0</value>
+							</Setting>
+							<Setting name="DMAMode">
+								<value>1</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="PROFINET_TOPOLOGY">
+						<Settings>
+							<Setting name="TopologyActive">
+								<value>1</value>
+							</Setting>
+							<Setting name="PNTOPO_DirLocation" path="PART_USER">
+								<value/>
+							</Setting>
+							<Setting name="PNTOPO_FileName">
+								<value>PNTOPO_.XML</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpCsal">
+						<Settings>
+							<Setting name="0.TxRingIndex">
+								<value>0</value>
+							</Setting>
+							<Setting name="0.TxDeviceAdr">
+								<value>1</value>
+							</Setting>
+							<Setting name="0.TxSessionId">
+								<value>1</value>
+							</Setting>
+							<Setting name="0.TxContainer">
+								<value>0x0101044D</value>
+							</Setting>
+							<Setting name="0.RxRingIndex">
+								<value>0</value>
+							</Setting>
+							<Setting name="0.RxDeviceAdr">
+								<value>1</value>
+							</Setting>
+							<Setting name="0.RxSessionId">
+								<value>1</value>
+							</Setting>
+							<Setting name="0.RxContainer">
+								<value>0x0001044D</value>
+							</Setting>
+						</Settings>
+					</component>
+					<component name="CmpNetXCanDlDrv">
+						<Settings>
+							<Setting name="MaxNumberOfCanNetworks">
+								<value>2</value>
+							</Setting>
+							<Setting name="NetId.0.Board">
+								<value>1</value>
+							</Setting>
+							<Setting name="NetId.0.Channel">
+								<value>0</value>
+							</Setting>
+						</Settings>
+					</component>
+				</IL_ComponentList>
+			</additional>
+		</package>
+	</packagelist>
+</device>
+

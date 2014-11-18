@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<DeviceData>
+  <Parameters>
+    <SerialNumber>SN: 006626019</SerialNumber>
+    <ControllerName>IndraMotionMlc1</ControllerName>
+    <IP>192.168.100.211</IP>
+  </Parameters>
+  <UserPartition>
+    <SerialNumber>SN: 006626019</SerialNumber>
+    <IP>192.168.100.211</IP>
+    <ControllerName>IndraMotionMlc1</ControllerName>
+  </UserPartition>
+  <OEMPartition>
+    <SerialNumber>SN: 006626019</SerialNumber>
+    <IP>192.168.100.211</IP>
+    <ControllerName>IndraMotionMlc1</ControllerName>
+  </OEMPartition>
+  <SystemPartition>
+    <SerialNumber>SN: 006626019</SerialNumber>
+    <IP>192.168.100.211</IP>
+    <ControllerName>IndraMotionMlc1</ControllerName>
+  </SystemPartition>
+</DeviceData>

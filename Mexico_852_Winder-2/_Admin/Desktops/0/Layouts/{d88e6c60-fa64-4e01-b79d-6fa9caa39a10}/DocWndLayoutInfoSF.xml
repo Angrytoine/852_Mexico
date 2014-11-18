@@ -1,0 +1,10 @@
+<States Version="2">
+    <Layout id="{d88e6c60-fa64-4e01-b79d-6fa9caa39a10}LastLayout" mdi="0">
+        <Items>
+            <Item type="DocumentWindow" accessPath="{9d4a3571-bc9e-4122-b5f8-93ebb1cce3b7}.DocumentWindows[StartScreenDocumentWindow]" mdiWindowState="Normal" mdiX="0" mdiY="0" mdiW="560" mdiH="360" tabIdx="0" DocFloatX="0" DocFloatY="0" DocFloatW="560" DocFloatH="360" />
+            <Item type="DocumentWindow" accessPath="{a36a7349-d7b0-4235-9051-5efd89e8028d}.DocumentWindows[d9db8249-0ddf-4b32-96ae-d50465b660f8-SercosConfigurationF907B5E0.0]" mdiWindowState="Normal" mdiX="0" mdiY="0" mdiW="216" mdiH="238" tabIdx="1" DocFloatX="0" DocFloatY="0" DocFloatW="216" DocFloatH="238" />
+            <Item type="DocumentWindow" accessPath="{a36a7349-d7b0-4235-9051-5efd89e8028d}.DocumentWindows[d9db8249-0ddf-4b32-96ae-d50465b660f8-ShowSercosDiagnosisDialog5F279F7F.0]" mdiWindowState="Normal" mdiX="0" mdiY="0" mdiW="216" mdiH="238" tabIdx="2" DocFloatX="0" DocFloatY="0" DocFloatW="216" DocFloatH="238" />
+            <Item type="DocumentWindow" accessPath="{1d33ec26-c508-486f-9975-f7cb7aef20a5}.DocumentWindows[dbb81eee-1ea3-4100-ab29-77755bd714ec_Editor77d89494-895c-4640-a1f7-17782b3e01f6]" mdiWindowState="Normal" mdiX="0" mdiY="0" mdiW="516" mdiH="538" tabIdx="3" DocFloatX="0" DocFloatY="0" DocFloatW="516" DocFloatH="538" />
+        </Items>
+    </Layout>
+</States>

@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" IndraWorksVersion="13.12.523.18" CompatibilityVersion="10.6" xmlns="http://www.boschrexroth.de/indraworks.textformatter.xsd">
+  <ViewDataObject id="ref-1" Language="en-US" ViewDataCount="60">
+    <ViewData xsi:type="Array" id="ref-2">
+      <Array id="ref-3">
+        <String>@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Mexico_852_Winder-1</String>
+        <ByteArray id="ref-4">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB5SURBVDhP3ZLRCcAgDESzU+ZwwP750Z0cRzlNQIOptvjVB0eKXM6DSsdgvvIXyfqBgBjvvEtKqc4QwvsAXcasAVh80oyhQTNxPbCzD+hv1tkFNLMnGIENGRq0OQfGrQbA/ibwkwaeSD9WDeS9+awaiM1Hm3gSm4GoAMd5f4G2IKejAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <Null />
+        <Array id="ref-5">
+          <String>a47cd3e5-2cab-49ef-8ac2-c83cb9e8ef4e@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>2d549682-b015-4738-8b5e-58c213826f94@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-6">
+        <String>a47cd3e5-2cab-49ef-8ac2-c83cb9e8ef4e@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>General Module Folder</String>
+        <ByteArray id="ref-7">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-8">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-9">
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>IndraMotionMlc1</String>
+        <ByteArray id="ref-10">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACRSURBVDhPxZPNCcAgDEYzizfPzuEaXcGra7iNA/RcR3AMS2wV4y9IoYFHJHw+giD8X5zzwBjbJgqstUsw3JtlgdZAwBkIE7sBEcPHGSLBPHwr8P4i4KwEw73Z9A3qDfAspcydCJxzDT1BCRGgsRbU4ZRLnQiUUo0ghUtBCRHUl0eC4QYrphvsgJexvz/itwK4AWJb45TRZEZPAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-11">
+          <String>24422772-e406-411b-b9b3-eeff7ef451bd@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>2bb94bf5-d084-4521-aff4-7ff4306cd2f7@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>2a7f6b05-6d91-42b5-8484-04b444fa8a77@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>a5528ba9-e489-472d-94f2-fa6786aa351f@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>9e3d070f-5da2-41ec-ac78-f600d1d91ffc@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>02b9294a-ea0b-4158-884b-e0c1280d14e9@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>94275a9f-f157-4e2a-b785-403895ca0713@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>a0e80305-b77d-4f17-b60f-cb650b9be2cc@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>d9db8249-0ddf-4b32-96ae-d50465b660f8@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-12">
+        <String>24422772-e406-411b-b9b3-eeff7ef451bd@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Logic</String>
+        <ByteArray id="ref-13">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACGSURBVDhPzY5LDsAgCERdeHBXnsvzeAnLCCT4jbabvmSSNgNP3GdijGUVGZlQqEMIDM5IKVVJCKETyWKFvncCMEoOBd77JrJBLARccEDOuQaXHAksunwl4KLN9QX2Zc3fLrAPyD8EGGxLzigA6BT6VsEqo8AiAgztsr0A5UlkQ4DEil7j3AME2bvCgcBwiQAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-14">
+          <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-15">
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Application</String>
+        <ByteArray id="ref-16">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEPSURBVDhPjZItDoQwEIW5IBKN4wpYFEcgqUPsCTgBHjwKhcNxgu5+Q4ZtB7rZSV7aTt/8vTazdhyHZ12WxTs3+3mePT71/zQCwDRNsiqGYbj227alE4VBKbRte0/Cha2aQtd1su77fiZZ1/VGqirn8zz3RVF89pVUtRznnCdWRAsvCCYQAkLSLkL2/evikLAsS9HmUltBZch2Ts7KYQxAbCQcTlqW1h4s5J5wPhvHMXLWdf0VyFjIoxijigZ2vqcOQrGbprnEjWZTkDDswup0IvEK/4IOGF8qkIm2nogW+jfgR6PSspJsMv7Gd3++0qPQOPUpVViCOePn8yBc6pXEEJXZqAKZlgnmjD/+YFn2Bon+UQGdAjSHAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Bold</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>24422772-e406-411b-b9b3-eeff7ef451bd@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-17">
+          <String>456d3464-a413-4368-90c1-fcc94e78e828@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>573b648c-7ea2-45b8-9c4c-19d454c71b1c@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>8a955bec-e3b2-4f79-9704-c8826e5034dd@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>59fe1dfa-19ef-4605-8760-46549fbef703@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>9fd22881-fa5c-423c-9c03-7159c942193d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>0991debf-f757-4ce2-85e3-5f0a42ace1ec@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>5b9fe2de-e7f6-4e92-9993-aeae0dd28570@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>98948b72-77d5-4a0d-b022-561dfeb76861@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>02d70c7d-e170-4822-ad8d-d9c75a14c22e@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>dca75b6d-cc46-4989-9f69-474cceee710d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>30093c1d-cf0a-414d-904c-2a6c0acaf85e@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>95686e7b-925c-4c42-8150-17917a7e4460@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>10021dce-47e4-4004-a378-4b92a25a7ce6@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>2492f2a3-b103-4520-aed6-740fdace93af@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>08eab19a-c42b-443e-b4c7-6b66299e4bd6@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>2579a127-3503-4dc2-b202-ea31b2922426@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>e95ba3c3-ccd0-4db6-a413-f0796559124a@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>e6500e9a-d3df-4ead-8a9a-1b986fe6d4cb@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>35002e47-cd59-4387-a080-6b02a108328d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>a200c62d-9fdc-46c0-aa8e-e7a6f05ae88c@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>7b0c56ee-944b-418c-a7f8-96f263019d42@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>fadd02bd-6344-4efb-b29f-b6433d5df2c2@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>67b9ed1a-6f55-49d8-8f43-ca49cc1172d6@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>456f8496-b201-4f0e-b54d-567f3beee4bd@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>c6120d78-1b4a-42b5-a43d-6a3ef2bb28b4@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>9897e336-5af0-45e2-a908-6792af545487@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>30ca0373-ac6d-4a92-8bba-69dd8a360122@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>62e53f10-c711-4084-8c13-e7c5f50c104a@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>d2af366a-2c38-48d9-b10b-91d47b04cbb8@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-18">
+        <String>456d3464-a413-4368-90c1-fcc94e78e828@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>SETUP_STATE (ENUM)</String>
+        <ByteArray id="ref-19">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPrZFBCsAgDARz8OE5+e3UtV1Qo9LYDgSLOGNBGUkp2fMZB7KZ2FGEMicUGWXVe1aRbv9ExtFppJVzzm4oq5RzZVxkdjNErFuZzDYZAPWSlbyiDYCQDMZAmF/+gFPl8l7hCKDcxd7ySSaQjmXiZZEL2uaZ6k9XmC4AAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-20" />
+      </Array>
+      <Array id="ref-21">
+        <String>573b648c-7ea2-45b8-9c4c-19d454c71b1c@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>STATE (ENUM)</String>
+        <ByteArray id="ref-22">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPrZFBCsAgDARz8OE5+e3UtV1Qo9LYDgSLOGNBGUkp2fMZB7KZ2FGEMicUGWXVe1aRbv9ExtFppJVzzm4oq5RzZVxkdjNErFuZzDYZAPWSlbyiDYCQDMZAmF/+gFPl8l7hCKDcxd7ySSaQjmXiZZEL2uaZ6k9XmC4AAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-23" />
+      </Array>
+      <Array id="ref-24">
+        <String>8a955bec-e3b2-4f79-9704-c8826e5034dd@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>UTIL_STATE (ENUM)</String>
+        <ByteArray id="ref-25">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhPrZFBCsAgDARz8OE5+e3UtV1Qo9LYDgSLOGNBGUkp2fMZB7KZ2FGEMicUGWXVe1aRbv9ExtFppJVzzm4oq5RzZVxkdjNErFuZzDYZAPWSlbyiDYCQDMZAmF/+gFPl8l7hCKDcxd7ySSaQjmXiZZEL2uaZ6k9XmC4AAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-26" />
+      </Array>
+      <Array id="ref-27">
+        <String>59fe1dfa-19ef-4605-8760-46549fbef703@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>AdjustPreset</String>
+        <ByteArray id="ref-28">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-29">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-30">
+        <String>9fd22881-fa5c-423c-9c03-7159c942193d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>AxisInterface</String>
+        <ByteArray id="ref-31">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-32">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-33">
+        <String>0991debf-f757-4ce2-85e3-5f0a42ace1ec@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Expectation Window Managment</String>
+        <ByteArray id="ref-34">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-35">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-36">
+        <String>5b9fe2de-e7f6-4e92-9993-aeae0dd28570@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>FLEXO_PGM</String>
+        <ByteArray id="ref-37">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-38">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-39">
+        <String>98948b72-77d5-4a0d-b022-561dfeb76861@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>INFEED</String>
+        <ByteArray id="ref-40">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-41" />
+      </Array>
+      <Array id="ref-42">
+        <String>02d70c7d-e170-4822-ad8d-d9c75a14c22e@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>MAIN_PGM</String>
+        <ByteArray id="ref-43">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-44">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-45">
+        <String>dca75b6d-cc46-4989-9f69-474cceee710d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>ModbusComDataType</String>
+        <ByteArray id="ref-46">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-47">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-48">
+        <String>30093c1d-cf0a-414d-904c-2a6c0acaf85e@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>REF_SPEED</String>
+        <ByteArray id="ref-49">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-50">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-51">
+        <String>95686e7b-925c-4c42-8150-17917a7e4460@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>REWIND</String>
+        <ByteArray id="ref-52">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-53">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-54">
+        <String>10021dce-47e4-4004-a378-4b92a25a7ce6@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>STATE_MACHINE</String>
+        <ByteArray id="ref-55">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-56">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-57">
+        <String>2492f2a3-b103-4520-aed6-740fdace93af@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Utilities</String>
+        <ByteArray id="ref-58">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-59">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-60">
+        <String>08eab19a-c42b-443e-b4c7-6b66299e4bd6@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>GVL_MODBUS</String>
+        <ByteArray id="ref-61">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF9SURBVDhPjZM9csIwEEZ1Jx2ITlegdcURmFFHkck5XAf1bkJFx6QIHd3me7uSY5LJTASfZUu7b39kJ/vnuN1u9vr2aaXZqvv9br8A7cOstiaDprn2+XvtdHqxWqtlLVbpCRARhnNofp99TjLO1dyR4ftbQDiLLBG56ccAUFp2QBKAuUgj0xWAY5Yhxg6QATWCot6ktAOQlUURpNo8zwEgqyQr32il0+OevewAVGSnbEqyXKqdz+cAUHMASJ9nMgGgtdUZ4TwAkYUDaAyAcKZWRVpTHtL6lDoAFdvv9z0DbQLxWnWJhgEA1NemqQOIHoAiOWC8IBnDodUB4826nkk/60xXgNaVgSLp8mTcI/q9msE+zXPlYhNB6DiN8j4A2ArnH2tkSfTdbudvZQAUvTi5R944rI6KMpwpgQZer9dnwLIsYfSXZEhknJtOyz8mvjLSR/r7ifipjFp7vTjStMPh4IFwZqTH42GXy8VfCkRdY0bH49HFPVEJOJzNzL4Ax9e/N7Klu7cAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-62" />
+      </Array>
+      <Array id="ref-63">
+        <String>2579a127-3503-4dc2-b202-ea31b2922426@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>MlcVarGlobal</String>
+        <ByteArray id="ref-64">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF9SURBVDhPjZM9csIwEEZ1Jx2ITlegdcURmFFHkck5XAf1bkJFx6QIHd3me7uSY5LJTASfZUu7b39kJ/vnuN1u9vr2aaXZqvv9br8A7cOstiaDprn2+XvtdHqxWqtlLVbpCRARhnNofp99TjLO1dyR4ftbQDiLLBG56ccAUFp2QBKAuUgj0xWAY5Yhxg6QATWCot6ktAOQlUURpNo8zwEgqyQr32il0+OevewAVGSnbEqyXKqdz+cAUHMASJ9nMgGgtdUZ4TwAkYUDaAyAcKZWRVpTHtL6lDoAFdvv9z0DbQLxWnWJhgEA1NemqQOIHoAiOWC8IBnDodUB4826nkk/60xXgNaVgSLp8mTcI/q9msE+zXPlYhNB6DiN8j4A2ArnH2tkSfTdbudvZQAUvTi5R944rI6KMpwpgQZer9dnwLIsYfSXZEhknJtOyz8mvjLSR/r7ifipjFp7vTjStMPh4IFwZqTH42GXy8VfCkRdY0bH49HFPVEJOJzNzL4Ax9e/N7Klu7cAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-65" />
+      </Array>
+      <Array id="ref-66">
+        <String>e95ba3c3-ccd0-4db6-a413-f0796559124a@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>UserConstGlobal</String>
+        <ByteArray id="ref-67">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF9SURBVDhPjZM9csIwEEZ1Jx2ITlegdcURmFFHkck5XAf1bkJFx6QIHd3me7uSY5LJTASfZUu7b39kJ/vnuN1u9vr2aaXZqvv9br8A7cOstiaDprn2+XvtdHqxWqtlLVbpCRARhnNofp99TjLO1dyR4ftbQDiLLBG56ccAUFp2QBKAuUgj0xWAY5Yhxg6QATWCot6ktAOQlUURpNo8zwEgqyQr32il0+OevewAVGSnbEqyXKqdz+cAUHMASJ9nMgGgtdUZ4TwAkYUDaAyAcKZWRVpTHtL6lDoAFdvv9z0DbQLxWnWJhgEA1NemqQOIHoAiOWC8IBnDodUB4826nkk/60xXgNaVgSLp8mTcI/q9msE+zXPlYhNB6DiN8j4A2ArnH2tkSfTdbudvZQAUvTi5R944rI6KMpwpgQZer9dnwLIsYfSXZEhknJtOyz8mvjLSR/r7ifipjFp7vTjStMPh4IFwZqTH42GXy8VfCkRdY0bH49HFPVEJOJzNzL4Ax9e/N7Klu7cAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-68" />
+      </Array>
+      <Array id="ref-69">
+        <String>e6500e9a-d3df-4ead-8a9a-1b986fe6d4cb@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>UserVarGlobal</String>
+        <ByteArray id="ref-70">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF9SURBVDhPjZM9csIwEEZ1Jx2ITlegdcURmFFHkck5XAf1bkJFx6QIHd3me7uSY5LJTASfZUu7b39kJ/vnuN1u9vr2aaXZqvv9br8A7cOstiaDprn2+XvtdHqxWqtlLVbpCRARhnNofp99TjLO1dyR4ftbQDiLLBG56ccAUFp2QBKAuUgj0xWAY5Yhxg6QATWCot6ktAOQlUURpNo8zwEgqyQr32il0+OevewAVGSnbEqyXKqdz+cAUHMASJ9nMgGgtdUZ4TwAkYUDaAyAcKZWRVpTHtL6lDoAFdvv9z0DbQLxWnWJhgEA1NemqQOIHoAiOWC8IBnDodUB4826nkk/60xXgNaVgSLp8mTcI/q9msE+zXPlYhNB6DiN8j4A2ArnH2tkSfTdbudvZQAUvTi5R944rI6KMpwpgQZer9dnwLIsYfSXZEhknJtOyz8mvjLSR/r7ifipjFp7vTjStMPh4IFwZqTH42GXy8VfCkRdY0bH49HFPVEJOJzNzL4Ax9e/N7Klu7cAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-71" />
+      </Array>
+      <Array id="ref-72">
+        <String>35002e47-cd59-4387-a080-6b02a108328d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Library Manager</String>
+        <ByteArray id="ref-73">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB1SURBVDhP7ZJBCsAwCAQ9+HB/bqO4wZpAIr1WWComM+ZQqsXMmhPju3JAREnV0xLs4CrALGceLJuTBBEhj93CbG8NWGh0I94HCBjf13bvN3BNFi0CC+C8PT/9KKhpCWz7pxf8gnuBc/U3vhVM2AqDTgIdRfQAsnR/E9E7nkcAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-74" />
+      </Array>
+      <Array id="ref-75">
+        <String>a200c62d-9fdc-46c0-aa8e-e7a6f05ae88c@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>AUTO_REGISTER (PRG)</String>
+        <ByteArray id="ref-76">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB0SURBVDhPtY7BDcAgDAPzYHbmyjws0cpQpFQYMJVq6T6QnGNIzvlSqMMs+NzF3ecSVYBQiSJIKb14VluiwGwEKaVUcMlSwNKXJQG7AHy6IDbLAtYOZEFPbI38f0FsYywFGGDtYCvoAzumAnyoDAI8nNI2zW7/3VhnoDWNywAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-77" />
+      </Array>
+      <Array id="ref-78">
+        <String>7b0c56ee-944b-418c-a7f8-96f263019d42@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>FormatC (PRG)</String>
+        <ByteArray id="ref-79">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB0SURBVDhPtY7BDcAgDAPzYHbmyjws0cpQpFQYMJVq6T6QnGNIzvlSqMMs+NzF3ecSVYBQiSJIKb14VluiwGwEKaVUcMlSwNKXJQG7AHy6IDbLAtYOZEFPbI38f0FsYywFGGDtYCvoAzumAnyoDAI8nNI2zW7/3VhnoDWNywAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-80" />
+      </Array>
+      <Array id="ref-81">
+        <String>fadd02bd-6344-4efb-b29f-b6433d5df2c2@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>InsetterControl (PRG)</String>
+        <ByteArray id="ref-82">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABwSURBVDhPxY5BCsAwCAQ9+HbflffkEy0bK9hUG3MoXRgIcR0kRESOCqMcBcNVWmu5pCpAQklFwMw3rlWNFxAp87v3PsAl2wJb/lZgZcMLjK0LUPbv5QWW/wW+HPEqiBZmUkFUjkgFGFR5CPCxi24SnTxoUTLsnNslAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-83" />
+      </Array>
+      <Array id="ref-84">
+        <String>67b9ed1a-6f55-49d8-8f43-ca49cc1172d6@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>MAIN (PRG)</String>
+        <ByteArray id="ref-85">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB0SURBVDhPtY7BDcAgDAPzYHbmyjws0cpQpFQYMJVq6T6QnGNIzvlSqMMs+NzF3ecSVYBQiSJIKb14VluiwGwEKaVUcMlSwNKXJQG7AHy6IDbLAtYOZEFPbI38f0FsYywFGGDtYCvoAzumAnyoDAI8nNI2zW7/3VhnoDWNywAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-86" />
+      </Array>
+      <Array id="ref-87">
+        <String>456f8496-b201-4f0e-b54d-567f3beee4bd@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>MOTION (PRG)</String>
+        <ByteArray id="ref-88">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB0SURBVDhPtY7BDcAgDAPzYHbmyjws0cpQpFQYMJVq6T6QnGNIzvlSqMMs+NzF3ecSVYBQiSJIKb14VluiwGwEKaVUcMlSwNKXJQG7AHy6IDbLAtYOZEFPbI38f0FsYywFGGDtYCvoAzumAnyoDAI8nNI2zW7/3VhnoDWNywAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-89" />
+      </Array>
+      <Array id="ref-90">
+        <String>c6120d78-1b4a-42b5-a43d-6a3ef2bb28b4@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>POU (PRG)</String>
+        <ByteArray id="ref-91">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB0SURBVDhPtY7BDcAgDAPzYHbmyjws0cpQpFQYMJVq6T6QnGNIzvlSqMMs+NzF3ecSVYBQiSJIKb14VluiwGwEKaVUcMlSwNKXJQG7AHy6IDbLAtYOZEFPbI38f0FsYywFGGDtYCvoAzumAnyoDAI8nNI2zW7/3VhnoDWNywAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-92" />
+      </Array>
+      <Array id="ref-93">
+        <String>9897e336-5af0-45e2-a908-6792af545487@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Symbol configuration</String>
+        <ByteArray id="ref-94">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABaSURBVDhPxZABCsAgCAD9/6v8mZkVmRlYCB0cjJxHGyRAtAvVKPEA8UwrR3NJmxBAxM2rACvUxf54ukGrOAo6wNh39MzHBO7JDay/IP4Jw6fAwv9AW7B+BaAA5FvYhdu6CKUAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-95" />
+      </Array>
+      <Array id="ref-96">
+        <String>30ca0373-ac6d-4a92-8bba-69dd8a360122@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Task Configuration</String>
+        <ByteArray id="ref-97">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACfSURBVDhPpZALEsQgCEM5OkfzZrt8mjEia9tZOqlCycMqHKr6eavLmuYxxqZar/lfZs/D3EWtd/kCYDLoXO/yDSDXwwYVSTX5DlCzmxjA06LHzFy7+QUDxjSJva/Icz0AqtHDV9SOgDnhfIIQA3yfyoluijeaTRnzFOslUiOmAMIrf28B2HvzBL24AxeaAWUY100RXFiE0xQT9Dh+mES+QLhV81qHzWQAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-98">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-99">
+        <String>62e53f10-c711-4084-8c13-e7c5f50c104a@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Trace</String>
+        <ByteArray id="ref-100">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACMSURBVDhPrY4BDsAgCAN9uk/zZ44KXSCo2YxNuqrQy8qhuuVcfSOOXUaN14U49onOq9Za31lWfHEOkAiWTwJQthPUsRLsAICNHXOtFfkql2mZEUKjnAGyjQIOWqQ/AkYRwTJhYpT0Uc/zP8C+eRR5t5J3BuglQFiGZwDUoghZ2APk/ksedKyrkFsq5QH4NHB8O36CfAAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-101" />
+      </Array>
+      <Array id="ref-102">
+        <String>d2af366a-2c38-48d9-b10b-91d47b04cbb8@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Visualization Manager</String>
+        <ByteArray id="ref-103">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACWSURBVDhPtY7RDYQwDEPz0Rm6CAvy1R1umw7ATqXmaghpCaDTPcmqUsdWhKSUyhO19R6Yd7glLJhFOuWcN487wxJdUJZpF2Z6IYSTWvSLV8ALNK8K4KGELzgKZilaCFj5F9TQpy5RmDXaizGOL9BLELH/KCBuwZVuL8CCDti/8QUVu+DN/QUVG7CM/P8VwLC68lv8F0RWe8zba+iM3b0AAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d7e988be-a45f-4769-861b-9502541b103d@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-104" />
+      </Array>
+      <Array id="ref-105">
+        <String>2bb94bf5-d084-4521-aff4-7ff4306cd2f7@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Motion</String>
+        <ByteArray id="ref-106">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABSSURBVDhP7YxLCgAhDEN7/0trOiRQQnUxuNOHYj628TjMwNFlUiLh3siWEvgC9w3ZUgIfcN+QLSVYDStryJYS1M/1/bVAbBaw+S4T2kqX3UzEBIZvXaNOb9zSAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-107">
+          <String>e448798e-fa9e-4b60-ae8a-1baf81375774@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>7f6d1769-b587-46e1-b28e-c17c75d53fb0@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>c50c33fa-74b4-4c87-b973-bdc6da69cf60@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>497cbf18-6ee5-4753-8ff1-1fd8c3bc4fb3@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>50b2d90c-04a6-4f95-ba91-657beb842722@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-108">
+        <String>e448798e-fa9e-4b60-ae8a-1baf81375774@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Real axes</String>
+        <ByteArray id="ref-109">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABuSURBVDhPzZBBDsAgCAR5uk/zZzZowBXiapMeOsmcWDeIfEm7dEurtVI1M6Ir2H5jwttLKVTNgM4PCt4IZRNrt2vv1AxskrABlX7F1jupWdBZ1mRqBnTigAplE2uPx4tqJj0GeuAkK+ib3Cgi8gDMPFlSLNZLiwAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2bb94bf5-d084-4521-aff4-7ff4306cd2f7@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-110">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-111">
+        <String>7f6d1769-b587-46e1-b28e-c17c75d53fb0@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Virtual axes</String>
+        <ByteArray id="ref-112">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACLSURBVDhPzZDBDYAgDEU5sJE7OQenzsXJEVzDEWpqrUClhYMHf/JSQtrfD+FDJZzDVMKcs4thoDeMeIk3S/UwjP5gYBFjdLkNQgCAa0BvpKZj37o0Bqx+AmpeVmwoBtT3KCElqRknUAbyUfIEOktzXU0DjR7Qlf+uEl+UBL0hqqYBq03gYRhwkjkAT/8XsL/tq9WHAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2bb94bf5-d084-4521-aff4-7ff4306cd2f7@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-113">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-114">
+        <String>c50c33fa-74b4-4c87-b973-bdc6da69cf60@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Encoder axes</String>
+        <ByteArray id="ref-115">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACUSURBVDhPrZHLDcAgDEM5sFHn4MhK7NCdOHeFjkHlKhYBNZR+LFlBSfwEwv0q7325sozH4nKMsTF6KaUxxApPAcq6mGEYsxBCyTmfdd+3FjYDYJhVolVYsiDo4wm9JVplQQhAlVVbhPR+BNDX1L4FfPoNhF//BsM4Y8mCoH/1tBOiZUEIkLWxCOk9DYD0NbVlLHLuADASHeQCmmxjAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2bb94bf5-d084-4521-aff4-7ff4306cd2f7@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-116" />
+      </Array>
+      <Array id="ref-117">
+        <String>497cbf18-6ee5-4753-8ff1-1fd8c3bc4fb3@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Link Axes</String>
+        <ByteArray id="ref-118">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB8SURBVDhPzZBRCsAgDEN7dI/mzZxB0mVai4N9LPBQ2zRI7Uu1Q7ZqtdYUeIb1KU0/YZGnl1JS4BFcPwh4g4TdYjq3vQMe+ckQE2d6K2TpoRCJ5ohtAIu8z4PEhwEKOoCT7wwP0wAV3tEiAQP6OZYYCaYMD+hamgSmDDOzC7vIo8UvYhUCAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2bb94bf5-d084-4521-aff4-7ff4306cd2f7@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-119" />
+      </Array>
+      <Array id="ref-120">
+        <String>50b2d90c-04a6-4f95-ba91-657beb842722@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Controller axes</String>
+        <ByteArray id="ref-121">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACLSURBVDhPzZDBDYAgDEU5sJE7OQenzsXJEVzDEWpqrUClhYMHf/JSQtrfD+FDJZzDVMKcs4thoDeMeIk3S/UwjP5gYBFjdLkNQgCAa0BvpKZj37o0Bqx+AmpeVmwoBtT3KCElqRknUAbyUfIEOktzXU0DjR7Qlf+uEl+UBL0hqqYBq03gYRhwkjkAT/8XsL/tq9WHAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2bb94bf5-d084-4521-aff4-7ff4306cd2f7@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-122" />
+      </Array>
+      <Array id="ref-123">
+        <String>2a7f6b05-6d91-42b5-8484-04b444fa8a77@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Technology</String>
+        <ByteArray id="ref-124">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABnSURBVDhPzYzRCQAxCEO7k/tP4Sx+ewEJlJ7YCj24wGvVRAdlZt5FRHzg9YpskfzkAJUFdtw9oKreBWsfHUCb1pkHQpvQq576EIc01nr9WYMQh1mo8kCoClUeCM2hU7B28QDEQYPhDxF2q1Y69JpUAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-125">
+          <String>3f058871-ac49-4977-83fe-aec16c8800c2@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>b7188486-b33b-4305-b4a2-dbcd2039863c@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>7f4f7159-4507-4f86-9ce7-2849a090dbfa@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-126">
+        <String>3f058871-ac49-4977-83fe-aec16c8800c2@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>AxisInterface</String>
+        <ByteArray id="ref-127">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB6SURBVDhPzZGBDYAgDATZiZ0chR26U3cSHlpAUMBoop9cTJr+0UTznzBte42M14JCm2VJKVNDkpwh1RQM+rLSh8K+c65IsoCpe2lGEUh5KWEXyZccBfX5F0QBfSjgqQALA5jCNwrsSwL9EwpOG2MjKGcBooM7SPVJjPFdVy82+a2l3wAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2a7f6b05-6d91-42b5-8484-04b444fa8a77@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-128">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-129">
+        <String>b7188486-b33b-4305-b4a2-dbcd2039863c@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Touch probe</String>
+        <ByteArray id="ref-130">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB6SURBVDhPzZGBDYAgDATZiZ0chR26U3cSHlpAUMBoop9cTJr+0UTznzBte42M14JCm2VJKVNDkpwh1RQM+rLSh8K+c65IsoCpe2lGEUh5KWEXyZccBfX5F0QBfSjgqQALA5jCNwrsSwL9EwpOG2MjKGcBooM7SPVJjPFdVy82+a2l3wAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2a7f6b05-6d91-42b5-8484-04b444fa8a77@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-131">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-132">
+        <String>7f4f7159-4507-4f86-9ce7-2849a090dbfa@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Winder</String>
+        <ByteArray id="ref-133">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB6SURBVDhPzZGBDYAgDATZiZ0chR26U3cSHlpAUMBoop9cTJr+0UTznzBte42M14JCm2VJKVNDkpwh1RQM+rLSh8K+c65IsoCpe2lGEUh5KWEXyZccBfX5F0QBfSjgqQALA5jCNwrsSwL9EwpOG2MjKGcBooM7SPVJjPFdVy82+a2l3wAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>2a7f6b05-6d91-42b5-8484-04b444fa8a77@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-134">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-135">
+        <String>a5528ba9-e489-472d-94f2-fa6786aa351f@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Robot</String>
+        <ByteArray id="ref-136">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACCSURBVDhPtY8LCoAwDEN39N1cU03auo9O0Aeh/7AVUWvdVsT1Hhs+cWuyaqDIs2DFAGutgmyA0jWD80AGSI8o2lpY3+4c/sslcp7hXvDJCwRK1wzOg2zQgnFnyDqYGWDE7ES1RbtzRgZou4Ry9oNfXiAwdgnWwZ3BCJxcDYCaL1TKDkq3U/NJ/Zq0AAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-137">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-138">
+        <String>9e3d070f-5da2-41ec-ac78-f600d1d91ffc@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Onboard_I_O</String>
+        <ByteArray id="ref-139">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABmSURBVDhP7Y5LDsAgCEQ5+hyNm7UDUUOgURZNuumYifJ7KFkArpPZZq6yoqoW5zxbK6A7/PiDkSzKeYu3gLgpbFv5FoAlPxEADrhbALBIT4Dd0y1AHsjxD/gawBb3eBethoPflMgNuievKLhLNf8AAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-140" />
+      </Array>
+      <Array id="ref-141">
+        <String>02b9294a-ea0b-4158-884b-e0c1280d14e9@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Inline_I_O</String>
+        <ByteArray id="ref-142">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABmSURBVDhP7Y5LDsAgCEQ5+hyNm7UDUUOgURZNuumYifJ7KFkArpPZZq6yoqoW5zxbK6A7/PiDkSzKeYu3gLgpbFv5FoAlPxEADrhbALBIT4Dd0y1AHsjxD/gawBb3eBethoPflMgNuievKLhLNf8AAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-143" />
+      </Array>
+      <Array id="ref-144">
+        <String>94275a9f-f157-4e2a-b785-403895ca0713@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Not_Used_1</String>
+        <ByteArray id="ref-145">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABeSURBVEhL7ZFBCsAwCAR9uj9PE3HLIr2pEKgDm0gOs0hk+Cmqunysx+ULtz0meYUkrS9AYtFOmig+9BRgDkljon2wlJPGRO0btP8BQkVImk8xzbVA3FZwcPkwXIHIA/9VcbDbN8AMAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-146" />
+      </Array>
+      <Array id="ref-147">
+        <String>a0e80305-b77d-4f17-b60f-cb650b9be2cc@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Not_Used</String>
+        <ByteArray id="ref-148">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABeSURBVEhL7ZFBCsAwCAR9uj9PE3HLIr2pEKgDm0gOs0hk+Cmqunysx+ULtz0meYUkrS9AYtFOmig+9BRgDkljon2wlJPGRO0btP8BQkVImk8xzbVA3FZwcPkwXIHIA/9VcbDbN8AMAAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-149" />
+      </Array>
+      <Array id="ref-150">
+        <String>d9db8249-0ddf-4b32-96ae-d50465b660f8@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>sercos</String>
+        <ByteArray id="ref-151">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC3SURBVDhPYxhc4P+95/+/L936/31xCyrumfMfJAdVhh3ANN9nUMGJ8RryfelauEKQrSDFMAwT/+CdgtsAkDNhCtFtAvHfB2WDDYYKYQJkA2AugEoRB/6fuwY3ABsGuYCgod+37gUrxGYACD/XdCLNVSAA9j/QSzBD/j9/j90Q5DD4fuwciiKQIXA5YFRDhVEByPkwRSAM0gTDKOK4XABSSCgh4bQdBsCGrMVMyt+nLCU9WukEGBgAXpER7k8SV4EAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>daac4165-2cbb-4cae-8ef6-f062073f42f1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-152">
+          <String>0432ac9d-c45a-4de2-b716-d15461cff735@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>13f8cd3d-6f5a-42d8-89e8-e0e222f6ffe1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-153">
+        <String>0432ac9d-c45a-4de2-b716-d15461cff735@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Drive1 [1] Drive1</String>
+        <ByteArray id="ref-154">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACDSURBVDhPvZAxCsAgDEX/4EU6Ondy9SJuPZLgAXqbnsRLpBU0SInQZOiHBxl+HlG8k1KiFSEE6rV1WjHnLKISOOd4ccwqgfeeBWNWCWKMLBizSoACwgGW6AXPcpPYBdMFpk+UMAvUFxQCM4s+C2qtIp8FJzbGJMB+ifz3hFZc0Ws9wA2eRy47bJtQrgAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d9db8249-0ddf-4b32-96ae-d50465b660f8@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-155">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-156">
+        <String>13f8cd3d-6f5a-42d8-89e8-e0e222f6ffe1@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Drive2 [2] Drive2</String>
+        <ByteArray id="ref-157">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACDSURBVDhPvZAxCsAgDEX/4EU6Ondy9SJuPZLgAXqbnsRLpBU0SInQZOiHBxl+HlG8k1KiFSEE6rV1WjHnLKISOOd4ccwqgfeeBWNWCWKMLBizSoACwgGW6AXPcpPYBdMFpk+UMAvUFxQCM4s+C2qtIp8FJzbGJMB+ifz3hFZc0Ws9wA2eRy47bJtQrgAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>d9db8249-0ddf-4b32-96ae-d50465b660f8@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-158">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-159">
+        <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Drive20 [20] Drive20</String>
+        <ByteArray id="ref-160">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACDSURBVDhPvZAxCsAgDEX/4EU6Ondy9SJuPZLgAXqbnsRLpBU0SInQZOiHBxl+HlG8k1KiFSEE6rV1WjHnLKISOOd4ccwqgfeeBWNWCWKMLBizSoACwgGW6AXPcpPYBdMFpk+UMAvUFxQCM4s+C2qtIp8FJzbGJMB+ifz3hFZc0Ws9wA2eRy47bJtQrgAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>d9db8249-0ddf-4b32-96ae-d50465b660f8@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-161">
+          <String>7618fe1e-8b01-494a-8fc2-222b9fc7f25f@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>43f2daa0-5927-461e-90c1-9ab8d3310743@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>34ecfb75-bc5a-4a33-bf79-f3171f53ae54@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>919dc648-25a7-416c-8f7d-ddad7c3d7a15@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>bd6611f3-fabb-4121-8ff0-b1927083a48f@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+          <String>f3f086cf-dd00-4a91-98b1-89f17968a4ad@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+      <Array id="ref-162">
+        <String>7618fe1e-8b01-494a-8fc2-222b9fc7f25f@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Axis [20]  Drive20</String>
+        <ByteArray id="ref-163">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABOSURBVDhP7Y9BCgAgCAR9uk/zZ4WigaQo0SkaGJDcFoRPyGgYIksiKtWsY322uaFDHrkAEUs17zgpcEX3CmxuuCELLqnUbIoFUvWMNwCYcUvNUZvplxAAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>11447982</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-164">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-165">
+        <String>43f2daa0-5927-461e-90c1-9ab8d3310743@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Measuring Encoder</String>
+        <ByteArray id="ref-166">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB6SURBVDhP3Y/BDcAgDAN5sFHnYK3s0J14swJj0DrFVaWGKM+qlqxIYB8k/VQ557HyjKzFYCnlZZyLyBrileEQwCrSLmDsm/s6zPtaq87e2wVDOQpgmfMuAxQBYIWnFaDfOIWAByFgxm15kBAAIsRyCABxR8sz8gmldAALutQkGPZKJAAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>11447982</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-167" />
+      </Array>
+      <Array id="ref-168">
+        <String>34ecfb75-bc5a-4a33-bf79-f3171f53ae54@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Encoder Emulation</String>
+        <ByteArray id="ref-169">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABASURBVDhPzYxBCgAgDMP29P18UlHcURoQA6WnJL6l1tsogCI7YEcqM1FkiiRyRDPSpb5rkCyQLJAskCyQ/JKIASMELdddeaG/AAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>11447982</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-170" />
+      </Array>
+      <Array id="ref-171">
+        <String>919dc648-25a7-416c-8f7d-ddad7c3d7a15@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Position Switch</String>
+        <ByteArray id="ref-172">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABASURBVDhPzYxBCgAgDMP29P18UlHcURoQA6WnJL6l1tsogCI7YEcqM1FkiiRyRDPSpb5rkCyQLJAskCyQ/JKIASMELdddeaG/AAAAAElFTkSuQmCC</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>11447982</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-173" />
+      </Array>
+      <Array id="ref-174">
+        <String>bd6611f3-fabb-4121-8ff0-b1927083a48f@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>MLD</String>
+        <ByteArray id="ref-175">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>11447982</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-176" />
+      </Array>
+      <Array id="ref-177">
+        <String>f3f086cf-dd00-4a91-98b1-89f17968a4ad@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>Local I/Os</String>
+        <ByteArray id="ref-178">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEHSURBVDhPYxg84MxM4/8wfHSSzn+oMHEApAkdHOrXJM4QhOaZaPj//71dKv93tSv+39okA8cbasVRDQYb8H3i//9f+jAxFrCuWvR/WloawhCwAa9b//9/1gD2OzZ8oFcd7JodrfIorgEbAFIA00wUAKoFgaVFPBCXgDVeyQOHPmY4YOIfR+PB9IJcdogBoND+fyYNYQAoPPDg93vCwOrmZbNCDAD5D2QAxAtAA0DhgQc/2+yLagAocEAGgGmQASA/4sF3VjqD1c1KZ4QYAIpnkAGgEAYbAAwPfPjyAitUA0AAOZGA4hmEV5Tyg0MahEEBBnIyCIM0wjTDDQABmAApGKqVEsDAAABxiwtRPtHWggAAAABJRU5ErkJggg==</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>11447982</Int32>
+        <Int32>-1</Int32>
+        <Boolean>false</Boolean>
+        <String>e6ffbc5f-7e02-46f6-9383-0dfbd4dcdc49@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-179">
+          <String>dummy@brummy</String>
+        </Array>
+      </Array>
+      <Array id="ref-180">
+        <String>2d549682-b015-4738-8b5e-58c213826f94@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <String>VCP35</String>
+        <ByteArray id="ref-181">iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABvSURBVDhPzY5BCoAwDATzp/wpf/JdfUvP0YiBtM2qLR4cmENhM5Q+o9aqs4qIkjLrndmh+5OAkw2ebAKlFJ0VBvj4embcmGnAhog+MgT6Y5bttAcGIn6cRWAARSK+gwETETcmDLy1Cdhjxet8FaIdBEaIEPLxOsQAAAAASUVORK5CYII=</ByteArray>
+        <String>Microsoft Sans Serif#8#Regular</String>
+        <Int32>0</Int32>
+        <Int32>-1</Int32>
+        <Boolean>true</Boolean>
+        <String>@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        <Array id="ref-182">
+          <String>40368f83-eb0d-41fe-b7e0-a8a2434c4898@C:\Users\hubert\Documents\852_Mexico\Mexico_852_Winder-1\Mexico_852_Winder-1.iwp</String>
+        </Array>
+      </Array>
+    </ViewData>
+  </ViewDataObject>
+</root>
