@@ -1,4 +1,0 @@
-﻿<Components>
-  <Component Type="IndraWorks.MLC" Version="IndraMotionMlc1@FWA-CML45*-ML*-13V12.2" />
-  <Component Type="HMI" Version="13.12" />
-</Components>

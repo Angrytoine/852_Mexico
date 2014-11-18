@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<Properties>
-	<Property name="name" value="HMI Standard-Anwendung" />
-	<Property name="token" value="txt_HMIStandardApplication" />
-	<Property name="ResourceAssembly" value="HMI.Configuration" />
-	<Property name="ResourceBaseName" value="HMI.Configuration.Resources.HmiPackageResource" />
-	<Property name="description" value="Standard" />
-</Properties>
